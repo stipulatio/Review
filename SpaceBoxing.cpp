@@ -1,3 +1,7 @@
+//Scenario - Boxer wants to fight win title belts on various planets
+//           Boxer needs to determine relative weight for each planet where
+//           he may contend for a title belt. 
+
 #include <iostream>
 
 int main() {
